@@ -1,0 +1,11 @@
+[
+    {
+        "username": "asdfg",
+        "password": "zxcvb@2",
+        "re_password": "zxcvb@2",
+        "date_of_birth": "12/09/1899",
+        "gender": "m",
+        "hobby": "enter your hobbies: ",
+        "description": "asdijo"
+    }
+]

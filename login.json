@@ -1,0 +1,111 @@
+[
+  {
+    "username": "bk",
+    "password": "17",
+    "re_password": "17",
+    "date_of_birth": "17/07/2003",
+    "gender": "F",
+    "hobby": "enter your hobbies: ",
+    "contact": 8550985201
+  },
+  {
+    "username": "sk",
+    "password": "97",
+    "re_password": "97",
+    "date_of_birth": "17/07/1997",
+    "gender": "M",
+    "hobby": "enter your hobbies: ",
+    "contact": 9767872177
+  },
+  {
+    "username": "subrena",
+    "password": "subrina@123",
+    "re_password": "subrina@123",
+    "date_of_birth": "10/03/1999",
+    "gender": "M",
+    "hobby": "enter your hobbies: ",
+    "contact": 23456789876
+  },
+  {
+    "username": "saloni",
+    "password": "Saloni",
+    "re_password": "Saloni",
+    "date_of_birth": "34567",
+    "gender": "f",
+    "hobby": "enter your hobbies: ",
+    "contact": 2345678
+  },
+  {
+    "username": "adsfasdfg",
+    "password": "aftab@1",
+    "re_password": "aftab@1",
+    "date_of_birth": "15/10/2005",
+    "gender": "M",
+    "hobby": "enter your hobbies: ",
+    "contact": 34567890987
+  },
+  {
+    "username": "asdfgh",
+    "password": "sadaf@1",
+    "re_password": "sadaf@1",
+    "date_of_birth": "10/02/1122",
+    "gender": "m",
+    "hobby": "enter your hobbies: ",
+    "contact": 32456789098
+  },
+  {
+    "username": "subreena",
+    "password": "sdaf@1",
+    "re_password": "sdaf@1",
+    "date_of_birth": "10/03/2000",
+    "gender": "m",
+    "hobby": "enter your hobbies: ",
+    "contact": 1234567
+  },
+  {
+    "username": "ali",
+    "password": "aliahmad@1",
+    "re_password": "aliahmad@1",
+    "date_of_birth": "10/09/2005",
+    "gender": "m",
+    "hobby": "enter your hobbies: ",
+    "contact": 1234567890
+  },
+  {
+    "username": "aftab",
+    "password": "aftab@12",
+    "re_password": "aftab@12",
+    "date_of_birth": "10/03/2005",
+    "gender": "M",
+    "hobby": "enter your hobbies: ",
+    "description": "student "
+  },
+  {
+    "username": "asdfggggggh",
+    "password": "eiliayh4@",
+    "re_password": "eiliayh4@",
+    "date_of_birth": "12/12/2009",
+    "gender": "f",
+    "hobbies": "enter your hobbies: ",
+    "description": "asdfgfhjs hqiuhiureha ksjdiw gowejdoisajxjadsh"
+  },
+  {
+    "username": "QWEAS",
+    "password": "qwert1!",
+    "re_password": "qwert1!",
+    "date_of_birth": "12/23/1212",
+    "gender": "f",
+    "hobbies": "enter your hobbies: ",
+    "description": "friuewqhfiseishsorfho isudfia uyiuytrw is good oioiajoiehrfia iuahei lsiury  t\tweut tqrw alufuiqe cagdfq l\tiqwe lidahj"
+  },
+  {
+    "username": "eiliyah",
+    "password": "eiliyah@123",
+    "re_password": "eiliyah@123",
+    "date_of_birth": "10/03/2025",
+    "gender": "f",
+    "hobbies": "enter your hobbies: ",
+    "description": "love my family",
+    "contact": 12345678901
+  }
+]
