@@ -2,9 +2,9 @@ import json
 import re
 import os.path
 user=input("Do you want to signup or login: ")
-file_exists=os.path.exists("/home/sabrina/Desktop/love.json")
+file_exists=os.path.exists("love.json")
 def dump(obj):
-    with open("/home/sabrina/Desktop/love.json","w") as f:
+    with open("love.json","w") as f:
         json.dump(obj,f,indent=2)
 if user=="signup":
     username=input("Enter ur userame: ")
@@ -21,8 +21,8 @@ if user=="signup":
             dic={"username":username,"password":password1,"re_password":password2,"date_of_birth":date_of_birth,
                 "gender":gender,"hobby":hobbies,"description":description}
             if file_exists==True:
-                with open("/home/sabrina/Desktop/love.json","r") as file:
-                    d=file.read()
+                with open("love.json","w") as file:
+                    d=file.write()
                     p=json.loads(d)
                     p.append(dic)
                     dump(p)
